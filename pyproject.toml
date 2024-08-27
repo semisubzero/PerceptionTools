@@ -1,0 +1,11 @@
+[project]
+name = "PerceptionTools"
+version = "0.1.0"
+description = "A set of tools for multimodal perception calibration and dataset creation"
+authors = [
+    {name = "Brandon Ramirez", email = "Br@ndonRamirez.com"},
+]
+dependencies = ['pandas','pyubx2','ouster.sdk','seaborn']
+requires-python = "<3.12"
+readme = "README.md"
+license = {text = "MIT"}
