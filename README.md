@@ -1,10 +1,16 @@
 # PerceptionTools
 
-PerceptionTools is a collection of python scrips to aid in sensor calibration and basic data collection for the Ouster OS2 LiDAR and Realsense camera. 
+PerceptionTools is a collection of python scrips to aid in sensor calibration and basic data collection for the Ouster OS2 LiDAR and Realsense camera. If you are using VSCode, you can get a nicer looking view of these pages by right clicking and selecting "Preview"
 
 # Introduction
 
-<Add general overview of sensors and methods>
+The intention of this repository is to provide a basic set of tools to begin data collection with camera, lidar, gps, and IMU. Data collection is done via the respective evaluation softwares for the devices.
+
+Intel realsense D455    -   Realsense-Viewer  
+Ouster OS2 128          -   Ouster SDK  
+UBLOX7 GPS              -   U-Center or Python script  
+IMU                     -   Ouster SDK / Realsense-Viewer  
+
 
 # Installation
 
@@ -13,16 +19,20 @@ PerceptionTools is a collection of python scrips to aid in sensor calibration an
 3. Install SensorsCalib
 4. Install Segment-Anything
 5. Install repo
-6. 
+6. ???
+7. Profit!
+
+Now that you've installed the repository, the sections below will guide you through some of the things you can do with the tools.
 
 # Calibration
 
-1. Conda activate lidar2camera
+There are several methods for calibration.
 
 # Data collection
 
-1. Conda activate perctools
+### SensorsCalibration - Auto_Calib_2.0 automatic
+### SensorsCalibration - Auto_Calib_2.0 manual
+### Matlab
 
-# Dataset creation
+# Dataset creation (Postprocessing)
 
-1. Conda activate perctools
