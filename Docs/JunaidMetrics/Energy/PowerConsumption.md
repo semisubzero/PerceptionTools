@@ -26,7 +26,7 @@ The software based measurement only measures power consumption within the Jetson
 
 ### Hardware
 
-The hardware mesurements were taken over a 1 hour
+The hardware mesurements were taken over a 1 hour period at 5 minute intervals, using KASA Smart plug monitors, while the sensors and laptop were recording data. 
 
 ##### Recorded values  
 laptop = [71, 73, 75, 72, 71, 71, 70, 71, 71, 70, 69, 69, 69]  
