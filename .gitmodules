@@ -4,3 +4,6 @@
 [submodule "segment-anything"]
 	path = segment-anything
 	url = https://github.com/facebookresearch/segment-anything
+[submodule "PyGPSClient"]
+	path = PyGPSClient
+	url = https://github.com/semuconsulting/PyGPSClient.git
