@@ -1,0 +1,9 @@
+latitude
+longitude
+altitude
+3DOF_x_Accel
+3DOF_y_Accel
+3DOF_z_Accel
+3DOF_x_Gyro
+3DOF_y_Gyro
+3DOF_z_Gyro

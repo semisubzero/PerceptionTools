@@ -7,3 +7,6 @@
 [submodule "PyGPSClient"]
 	path = PyGPSClient
 	url = https://github.com/semuconsulting/PyGPSClient.git
+[submodule "CalibAnything"]
+	path = CalibAnything
+	url = https://github.com/OpenCalib/CalibAnything.git
